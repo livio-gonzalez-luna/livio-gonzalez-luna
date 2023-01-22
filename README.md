@@ -1,3 +1,5 @@
+![logo](https://github.com/livio-gonzalez-luna/livio-gonzalez-luna/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Livio Gonzalez-Luna</h1>
 <h3 align="center">A passionate student about computer science and cybersecurity</h3>
 
