@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livio-gonzalez-luna&label=Profile%20views&color=0e75b6&style=flat" alt="livio-gonzalez-luna" /> </p>
 
 <h3 align="left">🌠 About Me 🌠</h3>
-- 🌱 I’m currently a student in La Plateforme School.
 
+- 🌱 I’m currently a student in La Plateforme School.
 - 📫 How to reach me **livio.gonzalez-luna@laplateforme.io**
 
 <HR>
