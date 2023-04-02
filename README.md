@@ -7,8 +7,9 @@
 
 <h3 align="left">🌠 About Me 🌠</h3>
 
-- 🌱 I’m currently a student in La Plateforme School.
-- 📫 How to reach me **livio.gonzalez-luna@laplateforme.io**
+-   Hi, I'm Livio and I'm a student in IT and Cybersecurity. With a passion for technology and a drive to learn, I'm constantly working to develop my skills and knowledge. 
+-   How to reach me **livio.gonzalez-luna@laplateforme.io**
+-   <a href="https://www.linkedin.com/in/livio-gonzalez-luna-188397147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Livio Gonzalez-Luna" height="30" width="40" /></a>
 
 <HR>
 <h3 align="left">‍💻 Languages and Tools:</h3>
